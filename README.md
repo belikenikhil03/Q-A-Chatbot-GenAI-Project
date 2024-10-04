@@ -7,7 +7,7 @@ This application uses Retrieval-Augmented Generation (RAG) and LLM APIs to provi
 
 1. **Create a Virtual Environment**
    
-   It's recommended to use a virtual environment for this project. You can create one using:
+   It's recommended to use a virtual environment for this project.
 
 2. **Install Requirements**
    
