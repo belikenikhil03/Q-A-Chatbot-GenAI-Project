@@ -1,3 +1,4 @@
+
 # Intelligent Document Question Answering App
 
 This application uses Retrieval-Augmented Generation (RAG) and LLM APIs to provide intelligent question answering capabilities for documents. Follow the setup instructions below to get started.
@@ -43,3 +44,5 @@ This application uses Retrieval-Augmented Generation (RAG) and LLM APIs to provi
 ## Note
 
 Ensure you have all the necessary permissions and API access before running the application. Keep your API keys secure and never share them publicly.
+=======
+# Q-A-Chatbot---GenAI-Project 
